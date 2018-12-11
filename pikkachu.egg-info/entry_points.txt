@@ -1,3 +1,0 @@
-[console_scripts]
-pika = pikkachu.cli:main
-
