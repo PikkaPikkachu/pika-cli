@@ -40,5 +40,5 @@ def main():
             commands = getmembers(module, isclass)
             command = [command[1] for command in commands if command[0] != 'Base'][0]
             command = command(options)
-            print command
+            #print command
             command.run()
