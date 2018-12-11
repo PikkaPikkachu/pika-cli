@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+pika/__init__.py
+pika/cli.py
+pika/commands/__init__.py
+pika/commands/attack.py
+pika/commands/base.py
+pika/commands/hello.py

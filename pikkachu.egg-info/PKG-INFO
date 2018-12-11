@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: pikkachu
+Version: 1.0.1
+Summary: A pika command line program in Python.
+Home-page: https://github.com/PikkaPikkachu/pika-cli
+Author: Prakriti Bansal
+Author-email: prakriti_bansal@yahoo.com
+License: UNLICENSE
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: cli
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: Public Domain
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4

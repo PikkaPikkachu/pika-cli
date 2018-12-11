@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+pikkachu/__init__.py
+pikkachu/cli.py
+pikkachu/commands/__init__.py
+pikkachu/commands/attack.py
+pikkachu/commands/base.py
+pikkachu/commands/hello.py
+pikkachu/commands/play.py
