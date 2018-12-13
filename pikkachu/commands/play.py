@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """The play command."""
 
 
@@ -10,5 +11,6 @@ class Play(Base):
     """Play with Pikachu!"""
 
     def run(self):
-        print 'Swirling & twirling ~'
+        print 'Swirling & twirling ~ '
+        print '\n ϞϞ(๑⚈ ․̫ ⚈๑)∩ \n'
         #print('You supplied the following options:', dumps(self.options, indent=2, sort_keys=True))
